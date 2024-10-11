@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ThePsyentist666
-- 👀 I’m interested in: I like a lot of things
+- 👋 Hi, I’m Bharadwaj
+- 👀 I’m interested in: a lot of things
 - 🌱 I’m currently learning: Well, I'm new to programming if you will
 - 💞️ I’m looking to collaborate on: Not yet
 - 📫 How to reach me: Not yet
